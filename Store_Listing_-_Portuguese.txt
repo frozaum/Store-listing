@@ -1,0 +1,20 @@
+﻿TENS QUE INSTALAR O NOSSO APLICATIVO OFICIAL PARA FUNCIONAR
+   » https://wiki.premid.app/installation/application
+
+Ele dá-te a possibilidade de usar controlos de mídia para controlar a reprodução desses serviços.
+Quando começas a assistir / ouvir algo coisa em um dos nossos serviços suportados, a extensão do navegador envia os metadados do vídeo / música para o nosso cliente de desktop e o PreMiD processa-o. O PreMiD envia as informações com o formulário correto para Discord e depois define automaticamente teu status.
+
+Serviços suportados
+   "  Vê em
+     » https://wiki.premid.app/support/services
+
+Nosso servidor Discord
+   » Porque não conversar com os desenvolvedores por trás do PreMiD?
+     » https://discord.premid.app
+
+Somos de código aberto!
+   » Grandes coisas devem estar abertas ao público.
+     » https://github.com/PreMiD/PreMiD
+
+Precisas de ajuda?
+   » https://wiki.premid.app
