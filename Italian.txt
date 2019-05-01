@@ -3,7 +3,6 @@ AVRAI BISOGNO DI INSTALLARE LA NOSTRA APPLICAZIONE UFFICIALE PER FARE IN MODO CH
 
 Essa ti da la possibilità di usare i tasti media per controllare la riproduzione sui vari servizi.
 Quando inizi a guardare/ascoltare qualcosa su uno dei nostri servizi supportati, l'estensione del browser manda i metadata del video/canzone al nostro client desktop e PreMiD processa questi metadata. PreMiD manda le informazioni nella forma corretta a Discord che imposta automaticamente il tuo stato in seguito.
-When you start watching/listening something on one of our supported services, the browser extension sends the meta data of the video/song to our desktop client and PreMiD processes it. PreMiD sends the information with the correct form to Discord and automatically sets your status afterwards.
 
 Dispositivi supportati
   » Dai un occhiata a
