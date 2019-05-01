@@ -1,0 +1,22 @@
+DU BEHÖVER INSTALLERA VÅRA OFFENTLIGA APPLIKATION FÖR ATT DEN SKA FUNGERA
+  » https://wiki.premid.app/installation/application
+
+
+Det ger möjlighet att använda dina mediaknappar för att styra uppspelningen av dessa tjänster.
+När du börjar titta/lyssna på någon av våra tjänster som stöds, skickar webbläsarens data från videon/sången till vår applikation och PreMiD behandlar den. PreMiD skickar informationen med rätt formulär till Discord och ställer automatiskt in din status efteråt.
+
+Stödda tjänster
+  » Ta en titt på
+    » https://wiki.premid.app/support/services
+
+
+Vår Discord-server
+  » Varför inte prata med utvecklarna bakom PreMiD?
+    » https://discord.premid.app
+
+Vi är öppen källkod!
+  » Bra saker bör vara öppna för allmänheten.
+    » https://github.com/PreMiD/PreMiDD
+
+Behövs hjälp?
+  » https://wiki.premid.app
