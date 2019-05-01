@@ -1,0 +1,20 @@
+﻿BẠN PHẢI TẢI MỞ RỘNG CỦA CHÚNG TÔI ĐỂ NÓ HOẠT ĐÔNG
+  » https://wiki.premid.app/installation/application
+
+Nó cho phép bạn sử dụng những nút điều khiển phương tiện để điều khiển phát lại của những dịch vụ đó.
+KHi bạn bắt đầu xem/nghe một thứ gì đó trong những dịch vụ được hỗ trợ, mở rộng của trình duyệt sẽ gửi siêu dữ liệu của video/bài hát đến client desktop và PreMiD xử lý nó. PreMiD gửi những thông tin trong dạng chuẩn đến Discord và tự động để trạng thái của bạn.
+
+Dịch vụ được hỗ trợ
+  » Xem tại
+    » https://wiki.premid.app/support/services
+
+Server Discord của chúng tôi
+  » TẠi sao lại không nói chuyện với những lập trình viên của PreMiD?
+    » https://discord.premid.app
+
+Dự án mã nguồn mở!
+  » Những thứ tuyện vời nên được mở cho mọi người
+    » https://github.com/PreMiD/PreMiD
+
+Cần sự trợ giúp?
+  » https://wiki.premid.app
