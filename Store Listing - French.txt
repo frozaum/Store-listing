@@ -1,0 +1,20 @@
+VOUS DEVEZ INSTALLER NOTRE APPLICATION OFFICIELLE POUR QUE ÇA FONCTIONNE
+  » https://wiki.premid.app/installation/application
+
+PreMiD vous offre la possibilité d'utiliser vos touches de média pour contrôler vos services.
+Quand vous commencer à regarder/écouter quelque chose sur l'un des services supportés, l'extension de votre navigateur va envoyer les métadonnées de la vidéo/musique vers le client et PreMiD va s'en charger. PreMid envoie l'information à Discord et change automatiquement votre statut.
+
+Services supportés
+  » Jetez un oeil sur 
+    » https://wiki.premid.app/support/services
+
+Notre serveur Discord
+  » Pourquoi ne pas discuter avec les développeurs de PreMiD ? 
+    » https://discord.premid.app
+
+PreMID est Open Source!
+  » Les bonnes choses doivent être publiques. 
+    » https://github.com/PreMiD/PreMiD
+
+Besoin d'aide ?
+  » https://wiki.premid.app
