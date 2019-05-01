@@ -12,7 +12,7 @@ Il nostro server discord
   » Perché non farsi una chiaccherata con gli sviluppatori dietro quest'applicazione?
     » https://discord.premid.app
 
-La sorgente di quest'applicazione è aperta!
+Questo progetto è open source!
   » I grandi progetti dovrebbero sempre essere aperti al pubblico. 
     » https://github.com/PreMiD/PreMiD
 
