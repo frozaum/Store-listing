@@ -1,6 +1,4 @@
-﻿
-
-**JE MOET ONZE OFFICIËLE APPLICATIE INSTALLEREN OM HET WERKEND TE KRIJGEN**
+﻿**JE MOET ONZE OFFICIËLE APPLICATIE INSTALLEREN OM HET WERKEND TE KRIJGEN**
   » https://wiki.premid.app/installation/application
 
 PreMiD voegt Rich Presence-ondersteuning toe aan vele services die je gebruikt en waarvan je houdt. Het geeft je ook de mogelijkheid om je mediabesturing te gebruiken voor het besturen van deze services.
