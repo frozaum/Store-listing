@@ -1,0 +1,19 @@
+PreMiD, sevdiğiniz ve kullandığınız bir çok servise Discord'un Zengin Aktivitesini uyarlar.
+
+**ÇALIŞABİLMESİ İÇİN UYGULAMASINI DA YÜKLEMENİZ GEREKMEKTEDİR**
+  » https://wiki.premid.app/v/turkish/yukleme/uygulama
+
+PreMiD, sevdiğiniz ve kullandığınız bir çok servise Discord'un Zengin Aktivitesini uyarlar. Bunun yanı sıra bu servisleri kullanırken klavyenizin medya kontrol tuşlarını da kullanmanıza olanak sağlar.
+Örn. bir şey izlemeye/dinlemeye başladığınız zaman eklenti, izlediğiniz/dinlediğiniz şeyin bilgilerini PreMiD masaüstü uygulamasına gönderir; uygulama bunları işler ve düzgün bir forma dönüştürdükten sonra Discord'a göndererek aktivite kısmınızı ayarlar.
+
+Desteklenen servisler
+  » https://wiki.premid.app/v/turkish/destek/servisler
+
+Discord Sunucumuz
+  » PreMiD'in yapımcılarıyla konuşmak istemez misin? https://discord.premid.app
+
+Açık Kaynak!
+  » Muhteşem şeyler topluma açık olmalıdır! https://github.com/PreMiD/PreMiD
+
+Yardım mı lazım?
+  » https://wiki.premid.app/v/turkish
