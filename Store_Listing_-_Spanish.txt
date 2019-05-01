@@ -1,0 +1,18 @@
+PreMiD añade Rich Presence a una gran cantidad de servicios que usa y ama.
+**NECESITAS TENER INSTALADA LA APLICACIÓN OFICIAL PARA QUE ESTO FUNCIONE**
+  » https://wiki.premid.app/installation/application
+
+PreMiD añade Rich Presence a una gran cantidad de sitios webs y servicios que usted usa y ama. También le da la posibilidad de usar sus atajos multimedia para controlar la reproducción de estos servicios sin interrumpir su trabajo.
+Por ejemplo, cuando tu comienzas a ver/escuchar contenido de tus sitios webs favoritos, el navegador le envía los datos a nuestra aplicación de escritorio permitiendo esta procesarla. PreMiD envía dicha información a su cliente de discord para mostrarla en su estado y también responde al teclado para poder controlar dicho servicios sin tener que hacer mucho esfuerzo.
+
+Servicios soportados
+  » échale un vistazo en https://wiki.premid.app/support/services
+
+Nuestro servidor de Discord
+  » ¿Por qué no hablar con nuestros desarrolladores? https://discord.premid.app
+
+¡Somos de código abierto!
+  » Las grandes cosas deberían estar abiertas al público. https://github.com/PreMiD/PreMiD
+
+¿Necesitas ayuda?
+  » https://wiki.premid.app
