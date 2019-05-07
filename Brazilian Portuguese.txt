@@ -1,12 +1,12 @@
 VOCÊ PRECISA INSTALAR NOSSO APLICATIVO OFICIAL PARA FUNCIONAR
-  » https://wiki.premid.app/installation/application
+  » https://wiki.premid.app/v/brazilian-portuguese/installation/application
 
 Essa extensão dá a possibilidade para usar seus controles de mídia para controlar a reprodução desses serviços.
 Quando você começa a assistir/ouvir algum serviço que é suportado pela extensão, a extensão envia a metadata do(a) vídeo/música para o nosso cliente de desktop e o PreMiD o processa. O PreMiD envia a informação com a forma correta para o Discord e automaticamente define seu status depois.
 
 Serviços suportados
   » Dê uma olhada em: 
-    » https://wiki.premid.app/support/services
+    » https://wiki.premid.app/v/brazilian-portuguese/support/services
 
 Nosso servidor oficial no Discord
   » Por que não falar com os desenvolvedores por trás do PreMiD? 
@@ -17,4 +17,4 @@ Nós somos Open Source!
     » https://github.com/PreMiD/PreMiD
 
 Precisa de ajuda?
-  » https://wiki.premid.app
+  » https://wiki.premid.app/v/brazilian-portuguese/
